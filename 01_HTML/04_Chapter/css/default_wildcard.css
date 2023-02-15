@@ -1,0 +1,10 @@
+* {
+    color: red;
+}
+
+h1 {
+    /* color : 글자색 */
+    color: oldlace;
+    background-color: orange;
+    /* background-color : 글자 바탕 색 */
+}

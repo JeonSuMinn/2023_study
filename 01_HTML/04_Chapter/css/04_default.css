@@ -1,0 +1,21 @@
+#header {
+    width: 800px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#wrap {
+    width: 800px;
+    margin: 0 auto; /* << margin: 0 auto;는 중앙정렬*/
+    overflow: hidden;
+}
+
+#content {
+    width: 300px;
+    float: right; /* float 우측 정렬 */
+    background-color: green;
+}
+/* id 선택자 사용법
+    #id 선택자 {
+        속성: 값;
+    } */

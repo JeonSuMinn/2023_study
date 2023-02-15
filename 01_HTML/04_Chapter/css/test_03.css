@@ -1,0 +1,11 @@
+p {
+    font-size: 18px;
+    font-family: '맑은고딕';
+}
+
+span {
+    
+    font-weight: 700;
+    text-decoration: underline;
+    color: blue;
+}
