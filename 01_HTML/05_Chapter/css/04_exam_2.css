@@ -1,0 +1,31 @@
+/* 문제 풀이 */
+body {
+  font-family: "돋음";
+}
+
+#title1 {
+  /* 색상표 : #6자리 숫자, rgb(숫자, 숫자, 숫자) */
+  color: purple;
+}
+
+#title2 {
+  color: green;
+}
+
+#weather {
+  color: red;
+  /* 굵은 글씨 */
+  font-weight: bold;
+}
+
+#location {
+  /* 자동정렬 : ctrl + alt + l */
+  /* 굵은 글씨 */
+  font-weight: bold;
+}
+
+#notice {
+  color: blue;
+  /* 굵은 글씨 */
+  font-weight: bold;
+}

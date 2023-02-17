@@ -1,0 +1,20 @@
+body {
+    background-image: url('../christmas_pic.jpg');
+    background-repeat: no-repeat;
+}
+
+.content {
+    margin-left: 160px;
+    margin-top: 200px;
+}
+
+.send {
+    border: 1px blue solid;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 10px;
+    width: 90px;
+}

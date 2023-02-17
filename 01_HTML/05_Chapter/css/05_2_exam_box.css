@@ -1,0 +1,16 @@
+.title1 {
+    border-top: solid 3px black;
+    width: 345px;
+}
+
+.title2 {
+    border: solid 3px skyblue;
+    border-radius: 10px;
+    padding: 3px;
+    width: 345px;
+}
+
+.title3 {
+    border-left: solid 8px red;
+    padding: 5px;
+}
