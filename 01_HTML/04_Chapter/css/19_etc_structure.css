@@ -1,0 +1,17 @@
+/* 구조 선택자 */
+li {
+    /* 목록 앞에 아이콘 제거 */
+    list-style: none;
+}
+
+/* 2n : 짝수 */
+/* 선택자:nth-child(수식) */
+li:nth-child(2n) {
+    /* 색깔 지정 : red, #16진수(16진수 6자리, 색상표 표기) */
+    background-color: #ff0003;
+}
+
+/* 2n+1 : 홀수 */
+li:nth-child(2n+1) {
+    background-color: #800000;
+}
