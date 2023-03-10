@@ -1,0 +1,19 @@
+#header {
+    text-shadow: 5px 5px;
+    color: black;
+    font-style: '맑은고딕';
+    font-size: 25px;
+}
+
+li {
+    list-style-image: url('../arrow.gif')
+}
+
+#wrap {
+    font-weight: 700;
+}
+
+#ps {
+    color: green;
+    text-decoration: underline;
+}

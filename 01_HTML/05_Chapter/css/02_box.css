@@ -1,0 +1,30 @@
+/* box 속성 : 높이, 가로(**) */
+div {
+    /* 가로 */
+    width: 100px;
+    /* 세로 */
+    height: 100px;
+    background-color: red;
+    /* 외곽선 */
+    /* border: 두께 선스타일 선색깔 */
+    border: 5px solid orange;
+    /* 안쪽여백 */
+    /* padding: 숫자px */
+    /* padding: 상 우 하 좌 ( 시계방향 ) */
+    /* padding: 0 30px 0 30px; */
+    /* padding: 상하 좌우 */
+    /* padding:  0 30px; */
+    padding-left: 0;
+    padding-top: 30px;
+    padding-right: 0;
+    padding-bottom: 30px;
+    /* 바깥여백 */
+    /* margin: 상 우 하 좌 ( 시계방향 ) */
+    /* margin: 0 10px 0 10px; */
+    /* margin: 상하 좌우 */
+    /* margin:0 30px; */
+    margin-left: 0;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+}

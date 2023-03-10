@@ -1,0 +1,9 @@
+/* 문제 풀이 */
+table, tr, th, td {
+    /* border: 선 두께 선 스타일 색상 */
+    border: solid 1px black;
+    /* 테이블 선 사이 간격 붙이기 속성 */
+    border-collapse: collapse;
+    /* padding: 안쪽여백수치 */
+    padding: 8px;
+}

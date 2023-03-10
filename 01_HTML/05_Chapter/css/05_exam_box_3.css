@@ -1,0 +1,10 @@
+/* 문제 풀이 */
+h3 {
+    /* border: 두께 선스타일 색깔 */
+    border: 5px solid #e1285a;
+    /* padding(안쪽여백) */
+    /* padding: 숫자px (상하좌우 : 공통숫자) */
+    padding: 10px;
+    /* 가로 */
+    width: 400px;
+}

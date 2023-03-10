@@ -1,0 +1,14 @@
+ul {
+    list-style: none;
+    line-height: 30px;
+    border: solid 1px black;
+    padding: 10px;
+    margin: 20px;
+    width: 500px;
+}
+
+.date, .location, .program {
+    border-bottom: dotted 1px grey;
+    padding: 10px;
+    margin: 5px;
+}

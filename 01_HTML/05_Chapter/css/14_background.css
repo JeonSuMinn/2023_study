@@ -1,0 +1,11 @@
+body {
+    background-image: url("../flower.jpg");
+    background-repeat: no-repeat;
+}
+
+h3 {
+    border: 1px, solid, yellow;
+    background-color: yellow;
+    width: 400px;
+    padding: 8px;
+}

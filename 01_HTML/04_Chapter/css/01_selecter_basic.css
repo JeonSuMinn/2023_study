@@ -1,0 +1,15 @@
+/* css start 
+1. 기본 선택자 : 태그 선택자 
+
+css 사용법
+    선택자 { 
+    속성:값; 
+    } << 과 같은 형태로 이루어짐
+*/
+
+h1 {
+    /* color : 글자색 */
+    color: oldlace;
+    background-color: orange;
+    /* background-color : 글자 바탕 색 */
+}

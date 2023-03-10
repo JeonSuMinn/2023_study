@@ -1,0 +1,20 @@
+/* 문제 풀이 */
+body {
+    /* 배경색 */
+    background-color: yellow;
+}
+
+#button {
+    /* 배경색 */
+    background-color: blue;
+    /* 글자색 */
+    color: white;
+    /* 안쪽여백 */
+    padding: 8px;
+    /* 가로 크기 */
+    width: 120px;
+    /* 글자 중앙 정렬 */
+    text-align: center;
+    /* 세로 크기 */
+    height: 25px;
+}

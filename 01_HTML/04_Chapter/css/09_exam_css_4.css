@@ -1,0 +1,10 @@
+span {
+    font-size: 22px;
+    font-weight: 700;
+
+}
+
+#place {
+    text-decoration: underline;
+    color: green;
+}

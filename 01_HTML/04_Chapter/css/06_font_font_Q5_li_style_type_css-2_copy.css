@@ -1,0 +1,9 @@
+h3 {
+    color: blue;
+    font-family: '맑은고딕';
+}
+
+li {
+    list-style-type: none; /* default는 disc_원 모양임*/
+;
+}

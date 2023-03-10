@@ -1,0 +1,20 @@
+/* 문제 풀이 */
+body {
+    border: solid 1px red;
+}
+
+h3 {
+    border: 1px solid blue;
+}
+
+p {
+    border: 1px solid green;
+}
+
+ul {
+    border: 1px solid red;
+}
+
+li {
+    border: 1px solid blue;
+}
